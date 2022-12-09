@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: yellowgreen;
+}
+
+h1 {
+    color: yellowgreen;
+    text-align: center;
+    position: sticky;
+}
